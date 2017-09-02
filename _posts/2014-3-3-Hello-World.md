@@ -1,10 +1,30 @@
 ---
 layout: post
-title: You're up and running!
+title: Weekly Blog Post #1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello, My name is Joel Swiatek!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
+ 
+Welcome to my first blog post for CS371P Object Oriented Programming with Glenn Downing. I hope you'll have a good time following me throughout the journey of this course. This first post will focus on my expectations for the class. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## What are your expectations of the class?
+I expect to learn a lot about object oriented programming and C++. I hope to complete many interesting projects and gain more experience with the tools listed in the syllabus, and which I have personally encountered in industry.
+
+## What did you do this past week?
+We had an intro to the course and began discussing basic syntax and language features of C++. I was impressed with the structured/organized manner in which the lectures are run and my attention was fully captured by the lecture content. 
+
+## What's in your way?
+Nothing is blocking my progress in the course at this point. I am familiar with C++ and many of the developer tools mentioned in the syllabus. I am excited to get going in the course.
+
+## What will you do next week?
+I imagine we will continue discussing C++ basics and be assigned our first project. I will continue attending lecture.
+
+## What's my experience of the class?
+I have greatly enjoyed my time spent in class so far and look forward to attending more lectures. Professor Downing seems very knowledgeable of C++ and software developement and I hope to learn a lot over the course of the semester. 
+## What's my pick-of-the-week or tip-of-the-week?
+My pick-of-the-week is Github Pages, a way to host a free site directly from a github repository. I found a repository here https://github.com/barryclark/jekyll-now which enables the creation of a personal blog in a matter of minutes.
+
+TODO: Include headshot
+TODO: Post link on Piazza
